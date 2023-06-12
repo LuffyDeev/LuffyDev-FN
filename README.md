@@ -1,13 +1,14 @@
-# WhatsBOT LuffyDev
+ <p align="center">
+     # WhatsBOT LuffyDev
 <br>
 <p align="center">
 <img alt="WhatsBOT LuffyDev" height="300" src="https://telegra.ph/file/0a7fdcc8f3f9d94e3c1b8.jpg"></p>
 <br>
-     
+
+ 
 #### - DEPLOY TO REPLIT - ####
   <br>
   
-  <p align="center">
 1-Make Your Bot easily
    <br>
 1-اصنع بوت واتساب خاص بك
