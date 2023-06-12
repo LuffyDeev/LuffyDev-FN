@@ -4,7 +4,7 @@
 <img alt="WhatsBOT LuffyDev" height="300" src="https://telegra.ph/file/0a7fdcc8f3f9d94e3c1b8.jpg"></p>
 <br>
 
-    <p align="center"><h1>WhatsBOT LuffyDev</h1></p>
+    <p align="center">WhatsBOT LuffyDev</p>
     <br>
      <p align="center">
 #### - DEPLOY TO REPLIT - ####
