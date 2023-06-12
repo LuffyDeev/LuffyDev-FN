@@ -1,5 +1,5 @@
 # LuffyDev-FN
-<img alt="WhatsBOT LuffyDev" height="300" src="[ttps://telegra.ph/file/0a7fdcc8f3f9d94e3c1b8.jpg)">
+<img alt="WhatsBOT LuffyDev" height="300" src="[https://telegra.ph/file/0a7fdcc8f3f9d94e3c1b8.jpg)">
     <h1 align="center">WwatsBOT LuffyDev</h1>
   </a>
 #### - DEPLOY TO REPLIT - ####
