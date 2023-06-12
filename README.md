@@ -1,10 +1,10 @@
 # LuffyDev-FN
 <br>
 <p align="center">
-<img alt="WhatsBOT LuffyDev" height="300" src="https://telegra.ph/file/0a7fdcc8f3f9d94e3c1b8.jpg">
+<img alt="WhatsBOT LuffyDev" height="300" src="https://telegra.ph/file/0a7fdcc8f3f9d94e3c1b8.jpg"></p>
 <br>
 
-    <p align="center"><h1>WhatsBOT LuffyDev</h1>
+    <p align="center"><h1>WhatsBOT LuffyDev</h1></p>
     <br>
      <p align="center">
 #### - DEPLOY TO REPLIT - ####
