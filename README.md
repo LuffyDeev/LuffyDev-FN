@@ -1,8 +1,8 @@
  
- <h3><p align="center">
+ <h1 align="center">
  WhatsBOT
- LuffyDev</p></h3>
- 
+ LuffyDev</h1>
+ </a>
      
 <br>
 <p align="center">
