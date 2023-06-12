@@ -16,11 +16,11 @@ const rl = createInterface(process.stdin, process.stdout)
 say('LuffyDev WhatsBot', {
 font: 'chrome',
 align: 'center',
-gradient: ['red', 'magenta']})
+gradient: ['orange', 'magenta']})
 say(`Bot Recreated by LuffyDev`, {
 font: 'console',
 align: 'center',
-gradient: ['red', 'magenta']})
+gradient: ['orange', 'magenta']})
 
 var isRunning = false
 /**
@@ -35,7 +35,7 @@ let args = [join(__dirname, file), ...process.argv.slice(2)]
 say('Scan the QR CODE ', {
 font: 'console',
 align: 'center',
-gradient: ['red', 'magenta']})
+gradient: ['orange', 'magenta']})
   
 setupMaster({
 exec: args[0],
@@ -54,7 +54,7 @@ p.send(process.uptime())
 break }})
 p.on('exit', (_, code) => {
 isRunning = false
-console.error('❎ㅤOcurrio un error inesperado:', code)
+console.error('❎ㅤERROR OCCURRED : Retry', code)
   
 p.process.kill()
 isRunning = false
